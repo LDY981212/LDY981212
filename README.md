@@ -83,12 +83,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDY981212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDY981212&layout=compact&theme=tokyonight&langs_count=8" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats-ten-lake-21.vercel.app/api?username=LDY981212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats-ten-lake-21.vercel.app/api/top-langs/?username=LDY981212&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LDY981212&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=LDY981212&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
